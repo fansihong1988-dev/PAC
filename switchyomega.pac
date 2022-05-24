@@ -5963,7 +5963,7 @@ var rules = [
             "zyzc9.com",
             "zzcartoon.com",
             "zzcloud.me",
-            "zzux.com"
+            "zzux.com",
             "openwrt.org"
         ]
     ]
