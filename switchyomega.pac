@@ -5964,7 +5964,8 @@ var rules = [
             "zzcartoon.com",
             "zzcloud.me",
             "zzux.com",
-            "openwrt.org"
+            "openwrt.org",
+            "binance.com"
         ]
     ]
 ];
