@@ -5967,7 +5967,8 @@ var rules = [
             "openwrt.org",
             "binance.com",
             "vscode.dev",
-            "gradle.org"
+            "gradle.org",
+            "jsdelivr.net"
         ]
     ]
 ];
