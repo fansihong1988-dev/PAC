@@ -5966,7 +5966,8 @@ var rules = [
             "zzux.com",
             "openwrt.org",
             "binance.com",
-            "vscode.dev"
+            "vscode.dev",
+            "gradle.org"
         ]
     ]
 ];
